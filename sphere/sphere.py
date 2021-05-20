@@ -3,6 +3,7 @@
    PyGraphs"""
 
 import math
+import turtle
 from turtle import*
 
 
@@ -14,9 +15,10 @@ V= 4.0/3.0*pi* r**3
 #function for the py graph 
 def graph():
   
+  turtle.speed(10000^2)
   color('blue')
   begin_fill()
-  forward(300)
+  forward(720)
   right(V)
   end_fill() 
 
@@ -32,11 +34,7 @@ def graph():
   right(V)
   end_fill() 
 
-  color('yellow')
-  begin_fill()
-  forward(120)
-  right(V)
-  end_fill() 
+
 
 #for the variable I in the range of 500, the program will lopp 500 times, by the sphere shall be complete 
 for i in range(500):
