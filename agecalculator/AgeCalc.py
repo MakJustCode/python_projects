@@ -1,7 +1,5 @@
 """ Makenson I. Noel 
     April 4, 2021
-    Happy Easter
-    Happy Resurrection Day
     Develope With Mak """
 
 """This is an age calculator, will calculate and tell the user there age for 100 years"""
