@@ -1,1 +1,1 @@
-a python program created to draw a sphere using the sphere formula with adjustments 
+All of my python programs 
