@@ -1,0 +1,1 @@
+I had trouble seting up the program to display the name of the color, right now it outputs the just the RGB values. But the math and everything works just fine. 
